@@ -21,11 +21,7 @@ module.exports = {
             '/motoboy/findByCpf',
             '/motoboy/update',
             '/motoboy/delete',
-            '/associate/findAll',
-            '/associate/new',
-            '/associate/findByCnpj',
             '/associate/update',
-            '/associate/delete',
         ]
     },
     Motoboy: {
