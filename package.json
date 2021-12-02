@@ -1,5 +1,5 @@
 {
-  "name": "gestor-medico",
+  "name": "trabalho-topicos",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -12,9 +12,7 @@
     "dotenv-safe": "^8.2.0",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
-    "mysql2": "^2.3.0",
-    "sequelize": "^6.6.5",
-    "sequelize-cli": "^6.2.0"
+    "mongoose": "^6.0.13"
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
