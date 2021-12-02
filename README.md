@@ -1,5 +1,5 @@
-# DS870-Ap04
-Atividade 4 da disciplina ds870
+# DS870-Trabalho
+Trabalho da disciplina ds870
 
 Alunos: 
 - Daniel Elias Delgado - GRR20176303
